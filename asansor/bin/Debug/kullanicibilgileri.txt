@@ -1,0 +1,6 @@
+mert.arik;Mert123;mert@hotmail.com;22;1;Hazal Şahin
+cem.karaca;Cem123;cem@gmail.com;22;5;Emre Tanrısever
+hazal.sahin;Hazal123;hazal@gmail.com;22;5;Cem Karaca
+emre.tanrisever;Emre123;emre@asdflk.com;23;5;Emre Tanrısever
+
+ceren.arik;A1234a;ceren.arik@hotmail.com;18;1;Mert Arık
